@@ -118,3 +118,14 @@ Physical left-to-right order supplied by Jacksons:
 - Rear / upper row: **30 → 29**
 
 Tent/unpowered sites **16, 17 and 18** are behind cabins **29 and 30**.
+
+
+## Confirmed powered-site layout
+
+Physical arrangement supplied by Jacksons:
+
+- Top row: **19 → 20 → 21 → 22 → 23 → 24**
+- Upper pair: **27 → 28**
+- Bottom row by the Gym: **25 → 26**
+
+All are powered sites.
