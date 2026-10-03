@@ -85,6 +85,28 @@ Later this can support:
 - photos after cleaning
 - cleaner performance/timing metrics
 
+## Facility cleaning lock schedules
+
+Shared facilities can have recurring automatic cleaning closures.
+
+Example:
+- Toilets & showers
+- Daily cleaning window: 12:00–14:00
+- Guest access is denied during the active cleaning window
+- Cleaner/admin credentials continue to work
+- Guests can be warned before the closure
+- The facility reopens automatically at the scheduled end time
+
+FastKiwi stores this as a per-property/per-facility schedule rather than hard-coding times, so each holiday park can configure different days and hours.
+
+Safety rules:
+- automatic closures block new guest entry; they must never trap somebody inside;
+- free egress remains available;
+- staff/admin emergency override remains available;
+- if a park has only one essential toilet block, the operator must confirm an alternative is available before enabling a full cleaning lockout.
+
+The Jacksons 12:00–14:00 toilets/showers cleaning schedule has been created as a **disabled template** until the real operational arrangement and alternative access are confirmed.
+
 ## MVP device classes
 
 ### Gate
@@ -102,6 +124,11 @@ Later this can support:
 - Request-to-exit
 - Local controller with schedule support
 - PIN required; QR preferred where supported
+- Recurring cleaning/maintenance lock schedules
+- Guest pre-closure notifications
+- Cleaner/admin override
+- Automatic reopening
+- Free egress during closures
 
 ### Cabin keys
 - Smart lockbox/keybox per cabin
@@ -126,7 +153,7 @@ Connect one sample of every device class to FastKiwi before field installation.
 One gate lane, one facility door, one smart keybox, one RV meter, plus one real cabin turnover through the cleaner/admin workflow.
 
 ### Phase 2 — Jacksons rollout
-Entry/exit, shared facility access, sauna/hot tubs, all cabin keyboxes, housekeeping workflow and RV monitoring.
+Entry/exit, shared facility access, sauna/hot tubs, all cabin keyboxes, housekeeping workflow, timed facility closures and RV monitoring.
 
 ### Phase 3 — Productise
 Turn Jacksons configuration into reusable FastKiwi holiday-park templates, onboarding, hardware kits and subscription plans.
@@ -142,6 +169,10 @@ Turn Jacksons configuration into reusable FastKiwi holiday-park templates, onboa
 - Powered/tent sites do not create cleaning tasks
 - Cleaner completion marks the unit ready
 - Admin/reception receives the ready notification
+- Cleaning closure automatically blocks new guest entry at its start time
+- Staff/admin override works during a facility cleaning closure
+- Facility automatically reopens at the configured end time
+- Free egress remains available during a cleaning closure
 - RV site kWh is recorded against the correct booking/site
 - Checkout disables access and closes utility allocation
 - Every action creates an auditable event
