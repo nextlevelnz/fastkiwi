@@ -47,13 +47,22 @@ Confirmed paper-map physical numbers:
 
 These are physical map numbers only at this stage. PMS mapping will be approved separately before they are linked to live reservations.
 
-### Tent sites
-Physical map group: red numbered sites at the top of the map.
+### Tent / unpowered sites
+Top-of-map sequence is confirmed as:
+- 1A
+- 1
+- 2
+- 3
+- continuing sequentially through 15
 
-Confirmed paper-map physical numbers:
-- 1 through 18
+Additional tent/unpowered sites:
+- 16
+- 17
+- 18
 
-These are physical map numbers only at this stage. PMS mapping will be approved separately.
+Sites 16–18 are positioned behind cabins 29 and 30.
+
+These are physical map labels only at this stage. PMS mapping will be approved separately.
 
 ### Undercover sites
 There are **2 physical undercover sites** by the parking area:
