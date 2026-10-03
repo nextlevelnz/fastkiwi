@@ -12,8 +12,8 @@ Excluded from this map:
 ## Confirmed roofed accommodation inside the map
 
 - The Barn
-- Kiwi Cabin
-- Moa Cabin
+- Kiwi Cabin — behind the powered sites on the paper map
+- Moa Cabin — behind the powered sites on the paper map
 - Kereru 9
 - Weka 10
 - Takahe 11
@@ -56,11 +56,13 @@ Confirmed paper-map physical numbers:
 These are physical map numbers only at this stage. PMS mapping will be approved separately.
 
 ### Undercover sites
-Physical location: beside/by the parking lot.
+There are **2 physical undercover sites** by the parking area:
+- Undercover Site 1 — opposite the word **Parking** on the paper map
+- Undercover Site 2 — the matching undercover building directly below Site 1
 
 Status:
-- location group confirmed
-- exact live site IDs/names still need confirmation before individual nodes are published
+- physical count and relative positions confirmed
+- exact live PMS names/IDs still need confirmation before booking linkage
 
 ## Confirmed facilities / map features
 
