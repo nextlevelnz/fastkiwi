@@ -31,8 +31,8 @@ Freeze the Jacksons MVP scope and establish the source-of-truth data we will use
 ### Inputs required
 - current booking/PMS inventory export or screenshots
 - current Jacksons paper map
-- exact cabin / house / batch names
-- exact powered / undercover / tent site names
+- exact Jacksons in-map accommodation names
+- exact powered / undercover / tent site names shown within the Jacksons map boundary
 - current gate/barrier photos and controller details
 - current switchboard / powered-site circuit layout
 - current key handling process
@@ -60,13 +60,18 @@ Turn the paper map into a clean interactive digital park map.
 1. Import the paper map as the builder background.
 2. Trace the park road, entry, exit and main walking paths.
 3. Place the Services Building, office/reception and common facilities.
-4. Place every cabin / house / batch.
-5. Place every powered, undercover powered and tent site.
+4. Place every accommodation that physically sits inside the Jacksons park map boundary.
+5. Place every powered, undercover powered and tent site inside that same boundary.
 6. Place sauna, hot tubs, dump station and other MVP facilities.
 7. Place both glow-worm areas, waterfall walk and quartz mine walk.
 8. Add labels, icons and guest-facing descriptions.
 9. Draw driving and walking routes.
 10. Preview on desktop, kiosk and mobile.
+
+### Scope boundary
+- This map is for the Jacksons Retreat property shown on the supplied paper map only.
+- Off-site batches, pods, lake accommodation or other inventory outside this map boundary are excluded from this map version.
+- Those off-site products can remain in the booking system and FastKiwi inventory, but they will use separate map/location records later.
 
 ### Deliverables
 - Jacksons Main Map draft
@@ -86,7 +91,7 @@ Jacksons confirms every object is in the correct physical location and the map i
 Make every booking resolve to the correct physical map location.
 
 ### Steps
-1. Import exact PMS inventory IDs/names.
+1. Import exact PMS inventory IDs/names for Jacksons in-map inventory only.
 2. Create FastKiwi unit/site IDs.
 3. Match each PMS item to one FastKiwi unit/site.
 4. Link the unit/site to the map node.
@@ -172,7 +177,7 @@ Install the smallest real guest-facing pilot.
 ### Initial field scope
 - one gate lane
 - one real facility access point
-- one cabin/house/batch keybox
+- one Jacksons cabin keybox
 - 1–2 powered-site meter channels
 - one real housekeeping turnover
 
@@ -215,10 +220,10 @@ Jacksons confirms facility schedules, safety, alternate toilet arrangements and 
 
 ---
 
-## Phase 7 — Cabin/house/batch key rollout + housekeeping
+## Phase 7 — Jacksons cabin / roofed-unit key rollout + housekeeping
 
 ### Goal
-Automate key handover and cleaning handoff for roofed accommodation.
+Automate key handover and cleaning handoff for roofed accommodation physically inside the Jacksons map scope.
 
 ### Flow
 Reservation
@@ -236,7 +241,7 @@ Reservation
 Powered/tent sites remain excluded from accommodation-turnover cleaning unless explicitly configured.
 
 ### Approval Gate 7
-Jacksons verifies every roofed unit has the correct keybox and cleaner workflow.
+Jacksons verifies every in-scope roofed unit has the correct keybox and cleaner workflow.
 
 ---
 
