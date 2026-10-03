@@ -11,20 +11,23 @@ Excluded from this map:
 
 ## Confirmed roofed accommodation inside the map
 
+Guest-facing cabin labels use **number + name**.
+
 - The Barn
-- Kiwi Cabin — behind the powered sites on the paper map
-- Moa Cabin — behind the powered sites on the paper map
-- Kereru 9
-- Weka 10
-- Takahe 11
-- Korimako 12
-- Pukeko 14
-- Ruru 15
-- Piwakawaka 16
-- Kea 17
-- Tui 18
-- Kaka 29
-- Kakariki 30
+- K Cabin — Kiwi Cabin
+- M Cabin — Moa Cabin
+- 9 · Kereru
+- 10 · Weka
+- 11 · Takahe
+- 12 · Korimako
+- 13 · **name still to confirm**
+- 14 · Pukeko
+- 15 · Ruru
+- 16 · Piwakawaka
+- 17 · Kea
+- 18 · Tui
+- 29 · Kaka
+- 30 · Kakariki
 
 These units are in the Jacksons map scope. Exact coordinates will be calibrated against the paper map before publishing.
 
