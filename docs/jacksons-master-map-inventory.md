@@ -67,14 +67,14 @@ Sites 16–18 are positioned behind cabins 29 and 30.
 
 These are physical map labels only at this stage. PMS mapping will be approved separately.
 
-### Undercover sites
-There are **2 physical undercover sites** by the parking area:
-- Undercover Site 1 — opposite the word **Parking** on the paper map
-- Undercover Site 2 — the matching undercover building directly below Site 1
+### Undercover powered sites
+There are **2 green undercover powered buildings** by the parking area:
+- **Green A** — top building, opposite **Parking**; holds **4 powered sites**
+- **Green B** — matching building directly below Green A; holds **4 powered sites**
 
 Status:
-- physical count and relative positions confirmed
-- exact live PMS names/IDs still need confirmation before booking linkage
+- physical count, labels, relative positions and capacity confirmed
+- exact eight live PMS site names/IDs still need confirmation before booking linkage
 
 ## Confirmed facilities / map features
 
