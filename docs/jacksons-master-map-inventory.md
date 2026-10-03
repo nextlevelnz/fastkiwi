@@ -107,3 +107,14 @@ No node is guest-published until:
 3. any live booking-system mapping is separately verified.
 
 Future/planned facilities remain hidden from the Jacksons guest map.
+
+
+## Confirmed cabin row order
+
+Physical left-to-right order supplied by Jacksons:
+
+- Lower row: **9 → 14 → 15 → 18**
+- Upper row: **10 → 12 → 11 → 16 → 17**
+- Rear / upper row: **30 → 29**
+
+Tent/unpowered sites **16, 17 and 18** are behind cabins **29 and 30**.
