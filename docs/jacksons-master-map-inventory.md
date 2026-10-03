@@ -20,7 +20,7 @@ Guest-facing cabin labels use **number + name**.
 - 10 · Weka
 - 11 · Takahe
 - 12 · Korimako
-- 13 · **name still to confirm**
+- 13 · **reserved / currently unassigned — hidden from guest map**
 - 14 · Pukeko
 - 15 · Ruru
 - 16 · Piwakawaka
