@@ -129,3 +129,25 @@ Physical arrangement supplied by Jacksons:
 - Bottom row by the Gym: **25 → 26**
 
 All are powered sites.
+
+
+## Confirmed wellness placement
+
+- **Sauna** — by the Office / Camp Pantry area.
+- **Hot Tubs** — by the Office / Camp Pantry area.
+- **Barrel Hot Tubs** — the barrel structures behind cabins **30 and 29** are hot tubs.
+
+These should be represented as distinct physical map locations while remaining part of the same guest wellness offering.
+
+## Visual map direction
+
+Use the existing Jacksons illustrated resort-map language as the visual reference:
+- warm cream / parchment background
+- native-bush greens
+- yellow powered-site blocks
+- red tent/unpowered areas
+- illustrated amenity/building icons
+- curved internal roads and walking tracks
+- clear labels integrated into the illustrated layout
+
+FastKiwi should add interactive booking/navigation overlays without losing the character of the existing Jacksons map.
